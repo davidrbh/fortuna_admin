@@ -15,10 +15,10 @@
   /*color-theme
    * Author: Davidrbh
    *================================*/
-  --color-theme: #00695c; /*default: #00695c*/
-  --color-hover-theme: #00544a; /* default: #00544a*/
-  --color-hover-theme-bg: #00594e; /* default: #00594e*/
-  --color-activate-border: #004f45; /* default: #004f45*/
+  --color-theme: #6cb6c5; /*default: #00695c*/
+  --color-hover-theme: #5799a7; /* default: #00544a*/
+  --color-hover-theme-bg: #5d9ca8; /* default: #00594e*/
+  --color-activate-border: #6cb6c5; /* default: #004f45*/
   --bs-font-theme: "Lato"; /*example: -apple-system,
   BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",...*/
   /*================================*/
@@ -15308,8 +15308,8 @@ fieldset:disabled .btn {
   left: 0;
   right: 0;
   padding: 40px;
-  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
